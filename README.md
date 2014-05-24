@@ -1,4 +1,5 @@
 A notepad app with offline local storage
+http://xem.github.io/postit
 
 Credits go to @addyosmani for the idea
 
